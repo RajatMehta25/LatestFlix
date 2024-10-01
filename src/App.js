@@ -38,7 +38,7 @@ function App() {
           placeholder="Search Content Name"
         />
       </div>
-      <div className="text">Download Links will work for 2 days only , after posting link</div>
+      <div className="text">Download Links will work for 24 hours only , after posting link</div>
 
       <div className="CardsContainer">
         {searchMovie(data)?.map((ele) => (
