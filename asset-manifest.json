@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LatestFlix/static/css/main.32b3db41.css",
+    "main.js": "/LatestFlix/static/js/main.6fcaa588.js",
+    "index.html": "/LatestFlix/index.html",
+    "main.32b3db41.css.map": "/LatestFlix/static/css/main.32b3db41.css.map",
+    "main.6fcaa588.js.map": "/LatestFlix/static/js/main.6fcaa588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b3db41.css",
+    "static/js/main.6fcaa588.js"
+  ]
+}
